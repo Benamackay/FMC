@@ -1,0 +1,8 @@
+groupname,objectname,objecttype
+netgroup1,host1,host
+netgroup1,host3,host
+netgroup1,host2,host
+netgroup2,host3,host
+netgroup2,network1,network
+netgroup3,network2,network
+
